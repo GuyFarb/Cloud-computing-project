@@ -1,0 +1,6 @@
+functions-framework==3.5.0
+cloudevents==1.9.0
+google-cloud-firestore==2.16.0
+google-events==0.7.0      # טיפוסי האירועים של Eventarc (Firestore)
+protobuf==4.25.3
+google-generativeai==0.7.2  # אופציונלי, רק אם משתמשים בכותרת ע"י ג'מיני
